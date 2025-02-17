@@ -12,7 +12,8 @@ namespace CosoleApp1
              Console.WriteLine("Hello, World!");
             var ch = Console.ReadLine();
             Fruits fruits = new Fruits();
-          //  Maths maths = new Maths();
+            //  Maths maths = new Maths();
+            String M1 = "mm";
             switch (fruits)
             {
                 case Fruits.Apple: break;
