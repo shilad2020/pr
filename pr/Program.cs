@@ -14,6 +14,7 @@ namespace CosoleApp1
             Fruits fruits = new Fruits();
             //  Maths maths = new Maths();
             String s = "ss";
+            String M1 = "mm";
             switch (fruits)
             {
                 case Fruits.Apple: break;
