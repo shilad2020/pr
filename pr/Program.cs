@@ -13,6 +13,7 @@ namespace CosoleApp1
             var ch = Console.ReadLine();
             Fruits fruits = new Fruits();
             //  Maths maths = new Maths();
+            String s = "ss";
             String M1 = "mm";
             switch (fruits)
             {
